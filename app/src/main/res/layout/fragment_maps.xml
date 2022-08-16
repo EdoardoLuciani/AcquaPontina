@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MapsFragment">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/map_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/map_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="90dp"
+        android:background="@null"
+        android:clickable="true"
+        android:elevation="0dp"
+        android:focusable="true"
+        android:src="@drawable/streetview"
+        android:visibility="gone"
+        app:backgroundTint="@color/maps_fab"
+        app:pressedTranslationZ="0dp"
+        app:fabCustomSize="80dp"
+        android:scaleType="center"
+        app:elevation="0dp"/>
+
+</FrameLayout>

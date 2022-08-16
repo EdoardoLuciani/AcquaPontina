@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WhoAreWeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/fragment_who_are_we_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/fragment_who_are_we_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/fragment_whoarewe" />
+
+            <com.example.acquapontina.JustifyTextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/fragment_who_are_we_text"
+                android:textSize="20sp"
+                android:layout_marginStart="23dp"
+                android:layout_marginEnd="15dp"
+                android:fontFamily="@font/open_sans_light"
+                android:textColor="@color/contentColor"
+                />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="20dp"
+                android:textSize="18sp"
+                android:fontFamily="@font/open_sans_light"
+                android:paddingBottom="15dp"
+                android:text="@string/made_by" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".InterestsPointsFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/fragment_interests_points_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/interests_points_lakes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/rounded_corner"
+                android:clickable="true"
+                android:drawableStart="@drawable/fragment_interestspoints_lago"
+                android:drawableEnd="@drawable/arrow_forward"
+                android:drawablePadding="30dp"
+                android:focusable="true"
+                android:fontFamily="@font/open_sans_bold"
+                android:gravity="center_vertical"
+                android:paddingStart="20dp"
+                android:paddingTop="7dp"
+                android:paddingEnd="5dp"
+                android:paddingBottom="7dp"
+                android:text="@string/fragment_interests_points_laghi"
+                android:textColor="@color/mainTextColor"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/interests_points_wellsprings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/rounded_corner"
+                android:clickable="true"
+                android:drawableStart="@drawable/fragment_interestspoints_sorgente"
+                android:drawableEnd="@drawable/arrow_forward"
+                android:drawablePadding="30dp"
+                android:focusable="true"
+                android:fontFamily="@font/open_sans_bold"
+                android:gravity="center_vertical"
+                android:paddingStart="20dp"
+                android:paddingTop="7dp"
+                android:paddingEnd="5dp"
+                android:paddingBottom="7dp"
+                android:text="@string/fragment_interests_points_sorgenti"
+                android:textColor="@color/mainTextColor"
+                android:textSize="18sp" />
+
+
+            <TextView
+                android:id="@+id/interests_points_drainage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/rounded_corner"
+                android:clickable="true"
+                android:drawableStart="@drawable/fragment_interestspoints_bonifica"
+                android:drawableEnd="@drawable/arrow_forward"
+                android:drawablePadding="30dp"
+                android:focusable="true"
+                android:fontFamily="@font/open_sans_bold"
+                android:gravity="center_vertical"
+                android:paddingStart="20dp"
+                android:paddingTop="7dp"
+                android:paddingEnd="5dp"
+                android:paddingBottom="7dp"
+                android:text="@string/fragment_interests_points_bonifica"
+                android:textColor="@color/mainTextColor"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

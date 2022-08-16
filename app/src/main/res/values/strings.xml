@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_icon_name">AcquaPontina</string>
+
+
+    <string name="Open">TRACTIVE</string>
+    <string name="Close">TRACTIVE</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="map">MAPPA</string>
+    <string name="Interestpoints">LUOGHI</string>
+    <string name="Ways">PERCORSI</string>
+    <string name="whoarewe">CHI SIAMO?</string>
+    <string name="contactus">CONTATTACI</string>
+    <string name="privacypolicy">PRIVACY POLICY</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Alert Dialog text -->
+    <string name="alert_dialog_title">Votaci su Google Play!</string>
+    <string name="alert_dialog_message">Aiutaci a crescere valutando la nostra app</string>
+    <string name="alert_dialog_positive_button">Si</string>
+    <string name="alert_dialog_negative_button">No</string>
+
+    <!-- Content Text -->
+    <string name="fragment_who_are_we_text">Il Liceo Scientifico "E. Majorana" di Latina ha progettato e sviluppato il nuovo e moderno servizio,
+        volto a chiunque sia interessato a "scoprire" il territorio pontino. Questo lavoro nasce da un percorso di alternanza scuola-lavoro che ha voluto
+        mettere in rilievo la ricchezza idrografica del territorio pontino, tanto a cuore ai ragazzi che hanno progettato e attuato il moderno e mai visto
+        prima servizio digitale che permette di raggiunger luoghi dove potersi abbandonare ai sensi immersi nella natura\n</string>
+
+    <string name="made_by">Codice by Edoardo Luciani\nDesign by Emanuele Biondi\nImmagini by Ilaria Coronati</string>
+    <string name="corporate_email">contattaci@gmail.com</string>
+
+    <string name="wellspring_ninfa_content">LUOGO: Sermoneta\nALTITUDINE: 30 m.s.l.m\nCARATTERISTICHE: Gruppo di sorgenti pedemontane ubicate alla base
+        dei monti Lepini, dove fuoriescono le acque meteoriche affioranti dalle rocce carbonatiche poiché restano intrappolate da sedimenti argillosi
+        impermeabili che formano la pianura.</string>
+
+    <string name="wellspring_monticchio_content">LUOGO: Sermoneta\nALTITUDINE: tra 11,5 e 14 m.s.l.m\nCARATTERISTICHE: Gruppo di sorgenti pedemontane
+        alimentate, come quelle di Ninfa, dalla falda alla base dei monti Lepini. Delle numerose polle originali, attualmente restano solo quelle principali
+        a causa dell’eccessiva estrazione di calcare dal substrato come è testimoniato dalla presenza di una torre medievale rimasta isolata sopra una guglia
+        di residuo roccioso. Le acque presentano caratteristiche diverse da una polla all’altra per la variabile quantità di zolfo, ferro e magnesio presenti.</string>
+
+    <string name="wellspring_suio_content">Collocazione: Castelforte(LT)\nComposizione: acque principalmente sulfuree con temperature variabili a seconda della
+        sorgente da fredde, con valori minori di 20°C, si giunge fino a calde che superano i 60°C.\nAltitudine: 13 m s.l.m.\nNote: acque termali collegate all’
+        attività del vulcano di Roccamonfina e dotate di ottime proprietà curative in diversi ambiti.</string>
+
+    <string name="wellspring_acquapuzza_content">Collocazione: Sermoneta(LT)\nAltitudine: 15 m s.l.m.\nComposizione: acqua di tipo sulfureo\nNote: luogo noto
+        per la inconfondibile torre medievale posta sul versante dei Monti Lepini che segnala l’interessante gruppo sorgivo</string>
+
+    <!-- _________________________________ -->
+
+    <string name="lake_ninfa_content">LOCAZIONE: Comune di Latina\nDIMENSIONI:\n- PROFONDITA’  di 5 metri\nORIGINE: Il lago si è originato inseguito allo sbarramento artificiale di alcune sorgenti
+    d’acqua. Bacino di acqua dolce isolato nell’agro pontino.\nHabitat: tipico dell’ambiente mediterraneo\nFauna: La zona ospita 152 specie di avifauna che vivono e nidificano lungo le sponde del lago,
+    ritroviamo il Falco Pellegrino, il Barbagianni e diverse specie di trampolieri come l’Airone cenerino.\n(RAGGIUNGIBILE TRAMITE LA “VIA NINFINA”)</string>
+
+
+    <string name="lake_vescovo_content">ORIGINE: Il lago si è originato in seguito al cedimento e sprofondamento del terreno\nNOTE: Inserito nella Rete Natura 2000
+    dalla Comunità Europea al fine di proteggere e conservare habitat, specie, animali e vegetali</string>
+
+    <string name="lake_carlo_content">ORIGINE: Il lago si è originato in seguito al cedimento e sprofondamento del terreno</string>
+
+    <string name="lake_paola_content">LOCAZIONE: Comune di  Sabaudia\nDIMENSIONI:\n- SUPERFICIE 3,9 km^2\n- PERIMETRO 20 km\n- PROFONDITA’ media  4,5 metri ed una profondità massima di 10 metri.\nORIGINE:
+    Lago costiero formatosi  in seguito a  intensi fenomeni di accumulo eolico e all’innalzamento del livello del mare nel periodo post-glaciale.  Acque da salmastre a saline.\nhabitat: tipico ambiente
+    mediterraneo.\nFAUNA: piccoli mammiferi terrestri e soprattutto avifauna sia stanziale che migratoria con alcune specie che si fermano a svernare\nNOTE: Inserito nel 1976 nel territorio del  Parco Nazionale
+    del Circeo e incluso nelle “Zone Umide di Interesse Internazionale” secondo la convenzione di RAMSAR II del 2 febbraio 1971.Le sue rive sono state popolate sin dalla Preistoria come dimostrano i rinvenimenti archeologici dell’uomo di Neanderthal e dell’uomo  Sapiens. I Romani nel I sec. vi costruirono ville sontuose
+    e stabilimenti termali tra cui la sontuosa  villa dell’Imperatore Tito Flavio Domiziano, collegata tramite il lago al poco distante porto-canale di Torre Paola, e hanno avviato una fiorente attività
+    di itticoltura proseguita senza interruzioni fino ad oggi.\n(RAGGIUNGIBILE TRAMINTE LA “STRADA LUNGOMARE” O TRAMITE IL CENTRO TURISTICO “SABAUDIA”)</string>
+
+    <string name="lake_caprolace_content">LOCAZIONE: Comune di Sabaudia\nDIMENSIONI:\n- SUPERFICIE:2,3 km^2\n- PERIMETRO:  8 km\n- PROFONDITA’ media 3 metri\nORIGINE: Lago di origine costiera. Bacino lacustre
+    di acqua salmastra collegato al lago di Paola tramite il canale “Fossa Augusta”.\nhabitat: tipico dell’ambiente mediterraneo costiero e palustre\nFAUNA:  Principalmente avifauna migratoria mediterranea
+    che vive e nidifica sulle sponde del lago, fra i più vistosi ritroviamo fenicotteri rosa, cicogne e cavalieri d’Italia.\nNOTE : Inserito nel 1978 nel territorio del  Parco Nazionale del Circeo e incluso
+    nelle “Zone Umide di Interesse Internazionale” secondo la convenzione di RAMSAR II del 2 febbraio 1971.\nLe sue acque sono interessate da una fiorente attività di mitilicoltura.\n(RAGGIUNGIBILE TRAMITE “STRADA STATALE LUNGOMARE”)</string>
+
+    <string name="lake_monaci_content">LOCAZIONE: Comune di Sabaudia\nDIMENSIONI:\n- SUPERFICIE   0,9 km^2\n- PERIMETRO  3,8 km\n- PROFONDITA’  1m\nORIGINE: Lago di origine costiera isolato dal mare antistante dalla
+    duna costiera. Acque da salmastre a saline a seconda della stagione.\nhabitat : tipico dell’ambiente mediterraneo costiero e palustre.\nFAUNA:  La zona ospita circa 260 specie di uccelli e mandrie di bufali
+    che pascolano nelle praterie circostanti.\nNOTE: Inserito nel 1976 nel territorio del  Parco Nazionale del Circeo e incluso nelle “Zone Umide di Interesse Internazionale” secondo la convenzione di RAMSAR II
+    del 2 febbraio 1971.\nLe sue rive sono state popolate durante il medioevo da comunità di monaci benedettini che costruirono monasteri su tutto il territorio, da qui deriva il suo apellativo.\n(RAGGIUNGIBILE TRAMITE “VIA DEL MARE”)</string>
+
+    <string name="lake_fogliano_content">LOCAZIONE: Comune di Latina\nDIMENSIONI:\n- SUPERFICIE:  3,95 km^2\n- PERIMETRO :  11 km\n- PROFONDITA’  massima :  2-3 m.\nORIGINE: Lago di origine costiera.  Bacino di acque
+    salmastre collegato al mare tramite la  “Foce del Duca”.\nhabitat : tipico dell’ambiente mediterraneo costiero e palustre.\nFAUNA: :  La zona ospita 260 specie di avifauna migratoria che nidificano lungo le sponde del lago.\n
+    NOTE: Inserito nel 1976 nel territorio del  Parco Nazionale del Circeo e incluso nelle “Zone Umide di Interesse Internazionale” secondo la convenzione di RAMSAR II del 2 febbraio 1971.\nLe sue rive sono state popolate
+    sin dalla Preistoria come dimostrano rinvenimenti archeologici di frecce e raschiatoi . I Romani vi realizzarono importanti opere di bonifica trasformandolo in un centro di allevamento e pesca. Durante la dittatura divenne un centro abitato da comunità di pescatori.\n
+    (RAGGIUNGIBILE TRAMITE “VIA DEL LIDO”)</string>
+
+    <string name="history_text">Etá antica:\nQuando?: intorno al 204 a.C\nDa chi?: i latini e i volsci furono i primi a stabilirsi nelle pianure pontine fondando i centri di satricum e suessa pometie. A testimonianza della
+        presenza romana è stato rinvenuto un esteso sistema di drenaggio e numerosi cuniculi sotterranei dotati di pozzi.\nPerché?:i romani costruirono parte della via Appia sui terreni bonificati\nMedioevo:\nTeodorico bonificó le
+        terre cosicché l\'Appia ritornasse transitabile. Bonifacio VIII effettuó una seconda bonifica quando la zona era devastata dalla malaria per spartire i terreni tra Caetani e sezzesi. Pacificó Leone X, che con
+        Da Vinci studió un piano di bonifica spinto per quella fascista.\n‘900:\nDa chi: Mussolini inizialmente provó a convincere i ricchi latifondisti pontini dei vantaggi della bonifica arrivando a sovvenzionare fino al 75% dei costi.
+        Successivamente per velocizzare i lavori affidó il progetto alla ONC.\nPerchè: dalla bonifica si sarebbero ricavati terreni agricoli molto fertili. Evidente anche il fine propagandistico del regime.\nQuando: dal 1924 al 1927\n</string>
+
+    <!-- Lakes -->
+    <string name="lake_Ninfa">Lago Di Ninfa</string>
+    <string name="lake_Vescovo">Laghi Del Vescovo</string>
+    <string name="lake_Carlo">Lago Di San Carlo</string>
+    <string name="lake_Paola">Lago Di Paola</string>
+    <string name="lake_Caprolace">Lago Di Caprolace</string>
+    <string name="lake_Monaci">Lago Dei Monaci</string>
+    <string name="lake_Fogliano">Lago Di Fogliano</string>
+
+    <!-- Wellsprings -->
+    <string name="wellspring_Suio">Sorgente Di Suio</string>
+    <string name="wellspring_Puzza">Sorgente Di Acqua Puzza</string>
+    <string name="wellspring_Ninfa">Gruppo Sorgenti Ninfa</string>
+    <string name="wellspring_Monticchio">Gruppo Sorgenti Monticchio</string>
+
+    <string name="fragment_interests_points_sorgenti">SORGENTI</string>
+    <string name="fragment_interests_points_bonifica">BONIFICA</string>
+    <string name="fragment_interests_points_laghi">LAGHI</string>
+
+
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- OnBoarding -->
+    <string name="move_map">Esplora</string>
+    <string name="click_map">Visualizza</string>
+    <string name="search_info">Approfondisci</string>
+
+    <string name="content_move_map">Muovi la mappa per esplolare i punti chiave</string>
+    <string name="content_click_map">Clicca sui punti chiave per ottenere piu\' informazioni oppure per andare in modalita\' Street View </string>
+    <string name="content_search_info">Vai nella sezione luoghi se desideri conoscere meglio i punti chiave</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:id="@+id/layout_locations_list"
+    tools:context=".LocationsListFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.example.acquapontina.JustifyTextView
+                android:id="@+id/justifyTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/colorPrimary"
+                android:fontFamily="@font/open_sans"
+                android:text="@string/history_text"
+                android:textSize="18sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ExpandableListView
+        android:id="@+id/places_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/mainTextColor"
+        android:dividerHeight="1dp">
+
+    </ExpandableListView>
+
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#c7e395</color>
+    <color name="colorAccentOpacity">#99c7e395</color>
+    <color name="mainBackgroundColor">#c7e395</color>
+    <color name="mainTextColor">#707070</color>
+    <color name="contentColor">#362E2B</color>
+
+    <color name="fragment_who_are_we_background">#D8F1E6</color>
+    <color name="fragment_contact_us_background">#FFF6A1</color>
+    <color name="fragment_interests_points_background">#CCE59F</color>
+
+    <color name="maps_fab">#E64285f4</color>
+
+    <color name="cyan">#00ffff</color>
+    <color name="orange">#FFA500</color>
+    <color name="green">#008000</color>
+
+</resources>

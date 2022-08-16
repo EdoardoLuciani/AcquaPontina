@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactUsFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/fragment_contact_us_background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:drawableStart="@drawable/facebook_icon"
+                android:drawablePadding="10dp"
+                android:paddingTop="70dp"
+                android:textSize="20sp"
+                android:text="@string/app_icon_name" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:drawableStart="@drawable/instagram_icon"
+                android:drawablePadding="10dp"
+                android:paddingTop="35dp"
+                android:textSize="20sp"
+                android:text="@string/app_icon_name" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:drawableStart="@drawable/twitter_icon"
+                android:drawablePadding="10dp"
+                android:paddingTop="35dp"
+                android:textSize="20sp"
+                android:text="@string/app_icon_name" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:drawableStart="@drawable/messanger_icon"
+                android:drawablePadding="10dp"
+                android:paddingTop="35dp"
+                android:textSize="20sp"
+                android:text="@string/app_icon_name" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical"
+                android:drawableStart="@drawable/email_icon"
+                android:drawablePadding="10dp"
+                android:paddingTop="35dp"
+                android:textSize="20sp"
+                android:text="@string/corporate_email" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</FrameLayout>
